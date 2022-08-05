@@ -967,6 +967,8 @@ section.upcoming-meetings .categories .main-button-red a {
 .meeting-item .thumb img {
   border-top-right-radius: 20px;
   border-top-left-radius: 20px;
+  width: 415px;
+  /* height: 800px; */
 }
 
 .meeting-item .thumb .price {
@@ -986,9 +988,10 @@ section.upcoming-meetings .categories .main-button-red a {
 
 .meeting-item .down-content {
   background-color: #fff;
-  padding: 30px;
+  /* padding: 30px; */
   border-bottom-right-radius: 20px;
   border-bottom-left-radius: 20px;
+  /* height: 00px; */
 }
 
 .meeting-item .down-content .date {
@@ -1035,7 +1038,7 @@ apply now
 */
 
 section.apply-now {
-  background-image: url(../images/6c7c73df156dd5338c7c.jpg);
+  background-image: url(../images/252b74c71375d32b8a64.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
